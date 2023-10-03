@@ -8,3 +8,33 @@
 body{
     background-image: url('https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg');
 }
+
+header{
+    height: 300px;
+}
+
+img{
+    height: 100%;
+    vertical-align: bottom;
+    margin-right: .5rem;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text-white{
+    color: white;
+}
+
+.main-logo{
+    height: 140px;
+}
+
+.brand-title{
+    font-size: 2rem;
+    font-weight: 900;
+    line-height: 140px;
+    display: inline-block;
+}
