@@ -38,3 +38,36 @@ img{
     line-height: 140px;
     display: inline-block;
 }
+
+.unread-counter{
+    margin-bottom: 1rem;
+}
+
+.text-unread-counter{
+    font-size: 1.5rem;
+    line-height: 3rem;
+}
+
+.searchbar{
+    margin-bottom: 8px;
+}
+
+.counter{
+    border-radius: 50%;
+    display: inline-block;
+    height: 3rem;
+    width: 3rem;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+.counter-blue{
+    background-color: blue;
+    color: red;
+}
+
+.counter-lime{
+    background-color: lime;
+    color: yellow;
+}
